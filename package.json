@@ -1,0 +1,19 @@
+{
+  "name": "tea55loerder",
+  "version": "1.0.0",
+  "description": "tea testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Odom32/tea55loerder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Odom32/tea55loerder/issues"
+  },
+  "homepage": "https://github.com/Odom32/tea55loerder#readme"
+}
